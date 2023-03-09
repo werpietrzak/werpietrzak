@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm Wer (Weronika) Pietrzak (she/they) and I'm a Front-end Web Developer.
+I'm Wer (Weronika) Pietrzak and I'm a Front-end Web Developer.
 
 - Currently located in Kraków, Poland 🇵🇱
 - I speak: English, Polski and 日本語
